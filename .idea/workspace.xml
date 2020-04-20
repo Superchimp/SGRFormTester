@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78b29876-221d-49a7-be0e-aeb106c7278f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aRoqOypyZcCJ5BPOmPfn3Ed1Z4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.TestRunner">
+    <configuration name="SGRFPOMTester" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpartaFormTester" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.pn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.pn" />
+      <option name="MAIN_CLASS_NAME" value="org.pn.SGRFPOMTester" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SGRFPOMTester.checkHappyPath" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpartaFormTester" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.pn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.pn" />
+      <option name="MAIN_CLASS_NAME" value="org.pn.SGRFPOMTester" />
+      <option name="METHOD_NAME" value="checkHappyPath" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SGRFPOMTester.checkMinimalPath" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpartaFormTester" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.pn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.pn" />
+      <option name="MAIN_CLASS_NAME" value="org.pn.SGRFPOMTester" />
+      <option name="METHOD_NAME" value="checkMinimalPath" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SGRFPOMTester.checkUnhappyPath" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpartaFormTester" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.pn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.pn" />
+      <option name="MAIN_CLASS_NAME" value="org.pn.SGRFPOMTester" />
+      <option name="METHOD_NAME" value="checkUnhappyPath" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SpartaFormTester" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.pn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.pn" />
+      <option name="MAIN_CLASS_NAME" value="org.pn.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="JUnit.SGRFPOMTester.checkMinimalPath" />
+        <item itemvalue="JUnit.SGRFPOMTester" />
+        <item itemvalue="JUnit.SGRFPOMTester.checkHappyPath" />
+        <item itemvalue="JUnit.SGRFPOMTester.checkUnhappyPath" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78b29876-221d-49a7-be0e-aeb106c7278f" name="Default Changelist" comment="" />
+      <created>1586707957474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586707957474</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1586850751669">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1920.-67.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1586850751669" />
+    <state width="1877" height="335" key="GridCell.Tab.0.bottom" timestamp="1587349236252">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="335" key="GridCell.Tab.0.bottom/1920.-67.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1587349236252" />
+    <state width="1877" height="335" key="GridCell.Tab.0.center" timestamp="1587349236252">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="335" key="GridCell.Tab.0.center/1920.-67.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1587349236252" />
+    <state width="1877" height="335" key="GridCell.Tab.0.left" timestamp="1587349236252">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="335" key="GridCell.Tab.0.left/1920.-67.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1587349236252" />
+    <state width="1877" height="335" key="GridCell.Tab.0.right" timestamp="1587349236252">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="335" key="GridCell.Tab.0.right/1920.-67.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1587349236252" />
+    <state x="953" y="0" width="974" height="1047" key="dock-window-1" timestamp="1587310382651">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="953" y="0" width="974" height="1047" key="dock-window-1/1920.-67.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1587310382651" />
+    <state x="-7" y="0" width="974" height="1047" key="dock-window-2" timestamp="1587309476893">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-7" y="0" width="974" height="1047" key="dock-window-2/1920.-67.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1587309476893" />
+    <state x="712" y="441" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1587348096541">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="712" y="441" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/1920.-67.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1587348096541" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1587115400404">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.-67.1920.1160/0.0.1920.1040@0.0.1920.1040" timestamp="1587115400404" />
+  </component>
+</project>
